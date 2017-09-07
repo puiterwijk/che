@@ -1,0 +1,2 @@
+FROM fedora:26
+RUN dnf install -y python python-nss python-sqlalchemy
